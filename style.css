@@ -16,10 +16,22 @@ body {
 	font-family: 'Titillium Web', sans-serif;
 }
 
+.red {
+	color: #ff5349;
+}
+
 .bold {
 	font-weight: 700;
 }
 
 #subtitle {
 	margin-top: -15px;
+}
+
+.title-block {
+	margin-bottom: 100px;
+}
+
+#button-div {
+	margin-top: 10px;
 }
